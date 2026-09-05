@@ -16,6 +16,7 @@ class AgentAction(str, enum.Enum):
     REASSESS = "REASSESS"
     BOOKED = "BOOKED"
     STOP = "STOP"
+    AI_FALLBACK = "AI_FALLBACK"
 
 
 class AgentActivity(Base):
