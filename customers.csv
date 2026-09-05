@@ -1,0 +1,151 @@
+id,name,segment,age,sport
+CUST0001,Manoj Panicker,regular-weeknight,55,Football (5-a-side)
+CUST0002,Sneha George,college-group,18,Tennis
+CUST0003,Rahul Menon,tournament-team,19,Tennis
+CUST0004,Meera Iyer,college-group,21,Badminton
+CUST0005,Vishnu Basheer,college-group,22,Badminton
+CUST0006,Chandra Basheer,college-group,19,Futsal
+CUST0007,Manoj Menon,college-group,22,Tennis
+CUST0008,Divya Rao,corporate,25,Tennis
+CUST0009,Aravind Basheer,casual-walkin,25,Tennis
+CUST0010,Nikhil Kumar,regular-weeknight,42,Futsal
+CUST0011,Sneha Ahmed,tournament-team,24,Football (7-a-side)
+CUST0012,Bhavana Warrier,college-group,22,Box Cricket
+CUST0013,Om Prakash Thomas,casual-walkin,59,Tennis
+CUST0014,Karthik Rao,casual-walkin,53,Badminton
+CUST0015,Vivek Pillai,corporate,29,Futsal
+CUST0016,Shreya Thomas,tournament-team,27,Tennis
+CUST0017,Meera Kumar,casual-walkin,34,Tennis
+CUST0018,Irfan Krishnan,tournament-team,31,Football (5-a-side)
+CUST0019,Ebin Pillai,casual-walkin,42,Box Cricket
+CUST0020,Gokul George,tournament-team,28,Football (7-a-side)
+CUST0021,Qasim Pillai,tournament-team,33,Tennis
+CUST0022,Gokul Namboothiri,college-group,20,Badminton
+CUST0023,Gokul Rao,college-group,18,Futsal
+CUST0024,Latha Namboothiri,tournament-team,32,Football (7-a-side)
+CUST0025,Jyothi Varma,regular-weeknight,25,Badminton
+CUST0026,Vishnu Warrier,tournament-team,21,Badminton
+CUST0027,Vivek Jacob,regular-weeknight,29,Futsal
+CUST0028,Lakshmi Joseph,casual-walkin,47,Box Cricket
+CUST0029,Divya Mathew,casual-walkin,51,Football (7-a-side)
+CUST0030,Neha George,tournament-team,26,Futsal
+CUST0031,Rohan Varma,casual-walkin,30,Football (5-a-side)
+CUST0032,Sana Nair,corporate,31,Futsal
+CUST0033,Anjali Rao,casual-walkin,53,Football (5-a-side)
+CUST0034,Varun George,college-group,19,Badminton
+CUST0035,Gokul Sheikh,tournament-team,28,Football (5-a-side)
+CUST0036,Fathima Ahmed,tournament-team,19,Badminton
+CUST0037,Manoj Kumar,casual-walkin,41,Badminton
+CUST0038,Meera Warrier,casual-walkin,56,Badminton
+CUST0039,Irfan Salim,casual-walkin,26,Box Cricket
+CUST0040,Yamini Krishnan,college-group,18,Box Cricket
+CUST0041,Bhavana Nair,tournament-team,21,Football (7-a-side)
+CUST0042,Latha Krishnan,college-group,19,Tennis
+CUST0043,Abhishek George,regular-weeknight,55,Football (7-a-side)
+CUST0044,Shreya Joseph,casual-walkin,23,Box Cricket
+CUST0045,Rohan Krishnan,casual-walkin,46,Football (7-a-side)
+CUST0046,Anjali Khan,college-group,23,Football (7-a-side)
+CUST0047,Rahul Sheikh,corporate,40,Box Cricket
+CUST0048,Varun Nair,regular-weeknight,29,Futsal
+CUST0049,Rohan Reddy,tournament-team,27,Futsal
+CUST0050,Jyothi Iyer,tournament-team,29,Football (5-a-side)
+CUST0051,Irfan Panicker,tournament-team,35,Tennis
+CUST0052,Sana Warrier,corporate,43,Football (5-a-side)
+CUST0053,Arjun Nair,tournament-team,33,Football (7-a-side)
+CUST0054,Pooja Salim,regular-weeknight,40,Football (7-a-side)
+CUST0055,Jyothi George,regular-weeknight,39,Futsal
+CUST0056,Sana Khan,college-group,19,Box Cricket
+CUST0057,Ravi Salim,corporate,34,Football (5-a-side)
+CUST0058,Devika George,tournament-team,18,Badminton
+CUST0059,Latha Warrier,college-group,23,Box Cricket
+CUST0060,Chandra Thomas,casual-walkin,27,Badminton
+CUST0061,Qasim Jacob,college-group,23,Badminton
+CUST0062,Lakshmi Krishnan,college-group,23,Football (5-a-side)
+CUST0063,Qasim Panicker,college-group,19,Tennis
+CUST0064,Ravi Namboothiri,corporate,43,Tennis
+CUST0065,Wafiya Krishnan,regular-weeknight,29,Tennis
+CUST0066,Devika Kumar,college-group,18,Futsal
+CUST0067,Pooja Warrier,tournament-team,22,Badminton
+CUST0068,Farhan Sheikh,college-group,20,Football (5-a-side)
+CUST0069,Anjali Ahmed,corporate,42,Football (7-a-side)
+CUST0070,Jyothi Joseph,casual-walkin,24,Box Cricket
+CUST0071,Tarun Krishnan,tournament-team,34,Badminton
+CUST0072,Tarun Nair,tournament-team,22,Tennis
+CUST0073,Aditi Krishnan,casual-walkin,27,Tennis
+CUST0074,Bhavana Kumar,corporate,28,Badminton
+CUST0075,Fathima Sheikh,tournament-team,19,Football (7-a-side)
+CUST0076,Vishnu Iyer,tournament-team,35,Badminton
+CUST0077,Sneha Sheikh,corporate,32,Box Cricket
+CUST0078,Meera Joseph,casual-walkin,51,Box Cricket
+CUST0079,Abhishek Sheikh,regular-weeknight,44,Tennis
+CUST0080,Tarun Ahmed,corporate,32,Badminton
+CUST0081,Pooja Joseph,casual-walkin,48,Football (5-a-side)
+CUST0082,Manoj Joseph,corporate,37,Box Cricket
+CUST0083,Vivek Mathew,regular-weeknight,27,Futsal
+CUST0084,Gayathri Kumar,college-group,19,Futsal
+CUST0085,Karthik Krishnan,corporate,44,Futsal
+CUST0086,Qasim Iyer,regular-weeknight,53,Football (5-a-side)
+CUST0087,Lakshmi Namboothiri,college-group,21,Badminton
+CUST0088,Om Prakash Sheikh,corporate,29,Futsal
+CUST0089,Pooja George,casual-walkin,37,Badminton
+CUST0090,Karthik Nair,regular-weeknight,27,Futsal
+CUST0091,Priya Nair,regular-weeknight,42,Badminton
+CUST0092,Bhavana Rao,casual-walkin,37,Tennis
+CUST0093,Sana Kumar,tournament-team,20,Box Cricket
+CUST0094,Ananya Varma,college-group,20,Football (7-a-side)
+CUST0095,Om Prakash Namboothiri,regular-weeknight,49,Football (5-a-side)
+CUST0096,Varun Sheikh,regular-weeknight,37,Football (5-a-side)
+CUST0097,Harish Pillai,tournament-team,33,Futsal
+CUST0098,Nikhil Mathew,regular-weeknight,26,Futsal
+CUST0099,Chandra Pillai,college-group,20,Box Cricket
+CUST0100,Sana Pillai,regular-weeknight,27,Tennis
+CUST0101,Qasim Nair,regular-weeknight,52,Box Cricket
+CUST0102,Deepak Salim,regular-weeknight,42,Badminton
+CUST0103,Vivek Kumar,corporate,25,Tennis
+CUST0104,Nikhil Warrier,corporate,32,Box Cricket
+CUST0105,Uma Warrier,regular-weeknight,45,Football (7-a-side)
+CUST0106,Fathima Varma,regular-weeknight,39,Tennis
+CUST0107,Anjali Menon,regular-weeknight,36,Box Cricket
+CUST0108,Pooja Sheikh,college-group,18,Futsal
+CUST0109,Sneha Namboothiri,casual-walkin,31,Badminton
+CUST0110,Varun Jacob,casual-walkin,58,Badminton
+CUST0111,Rahul Iyer,tournament-team,27,Futsal
+CUST0112,Chandra Krishnan,regular-weeknight,31,Futsal
+CUST0113,Divya Nair,casual-walkin,38,Box Cricket
+CUST0114,Anjali Mathew,college-group,23,Futsal
+CUST0115,Ebin Jacob,corporate,25,Box Cricket
+CUST0116,Vivek Rao,tournament-team,27,Tennis
+CUST0117,Lakshmi Reddy,college-group,21,Football (5-a-side)
+CUST0118,Karthik Thomas,casual-walkin,16,Football (7-a-side)
+CUST0119,Ananya Rao,tournament-team,28,Football (5-a-side)
+CUST0120,Aditi Thomas,corporate,35,Football (5-a-side)
+CUST0121,Deepak Sheikh,casual-walkin,21,Badminton
+CUST0122,Aditi Pillai,corporate,31,Tennis
+CUST0123,Kiran Jacob,regular-weeknight,51,Box Cricket
+CUST0124,Arjun Rao,tournament-team,19,Badminton
+CUST0125,Rohan Basheer,regular-weeknight,45,Football (5-a-side)
+CUST0126,Abhishek Jacob,tournament-team,22,Futsal
+CUST0127,Kiran Rao,regular-weeknight,48,Badminton
+CUST0128,Tarun Panicker,tournament-team,22,Box Cricket
+CUST0129,Divya Sheikh,casual-walkin,60,Tennis
+CUST0130,Zaid Namboothiri,tournament-team,18,Futsal
+CUST0131,Ananya Krishnan,corporate,26,Box Cricket
+CUST0132,Latha Joseph,regular-weeknight,55,Box Cricket
+CUST0133,Arjun Panicker,tournament-team,19,Futsal
+CUST0134,Anjali Nair,tournament-team,25,Badminton
+CUST0135,Rohan Namboothiri,casual-walkin,20,Futsal
+CUST0136,Ravi Reddy,tournament-team,20,Futsal
+CUST0137,Devika Joseph,college-group,20,Football (5-a-side)
+CUST0138,Farhan Menon,casual-walkin,40,Box Cricket
+CUST0139,Abhishek Krishnan,tournament-team,24,Box Cricket
+CUST0140,Bhavana Basheer,regular-weeknight,33,Futsal
+CUST0141,Vishnu Khan,corporate,24,Badminton
+CUST0142,Gokul Warrier,regular-weeknight,46,Box Cricket
+CUST0143,Uma Rao,casual-walkin,34,Futsal
+CUST0144,Aravind Ahmed,casual-walkin,45,Badminton
+CUST0145,Ravi Nair,corporate,33,Box Cricket
+CUST0146,Tarun Joseph,regular-weeknight,39,Box Cricket
+CUST0147,Rahul Pillai,regular-weeknight,37,Football (5-a-side)
+CUST0148,Uma Reddy,tournament-team,20,Football (5-a-side)
+CUST0149,Chandra Sheikh,regular-weeknight,29,Tennis
+CUST0150,Karthik Iyer,regular-weeknight,53,Box Cricket
